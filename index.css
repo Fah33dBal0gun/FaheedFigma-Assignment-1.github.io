@@ -1,0 +1,48 @@
+/* Element selector */
+p {
+    color: gray;
+    font-style: italic;
+    font-size: large;
+}
+
+h1 {
+    color: rgb(44 35 35);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+    margin: 25px;
+}
+
+input:hover {
+    background-color: aqua;
+}
+
+input {
+    size: 200px;
+}
+
+#section {
+    background-color: white;
+    margin-top: 40px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+#Everything {
+    background-color: powderblue;
+}
+
+#button {
+    margin-left: 50px;
+    margin-right: 50px;
+    width: 300px;
+}
+
+#TC {
+    color: black;
+    margin-left: 100px;
+}
+
+img {
+    width: 50px;
+}
+
